@@ -8,4 +8,8 @@ public class hello {
     System.out.println("Hooray!! Now we are able to contribute on open souce...")
   }
 
+  public static void add (int a, int b){
+    return a+b;
+  }
+
 }
